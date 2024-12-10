@@ -1,0 +1,30 @@
+﻿Create simple Vehicle managmnent system with following features:
+
+1. Add Vehicle
+2. Remove Vehicle
+3. Print Vehicle
+
+Vehicle class should have following attributes:
+
+1. Vehicle Number
+2. Vehicle Type
+3. Vehicle Color
+4. Vehicle Model
+
+Vehicle class should have following methods:
+
+1. Constructor
+2. Getters and Setters
+3. toString
+
+VehicleManagement class should have following methods:
+
+1. addVehicle
+2. removeVehicle
+3. printVehicle
+
+VehicleManagement class should have following attributes:
+
+1. List of Vehicles
+
+
